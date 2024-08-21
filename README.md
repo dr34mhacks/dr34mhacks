@@ -1,6 +1,4 @@
-<div align="center">
-  <h1> Greetings from the online oasis, Sid Joshi here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hey%2C+What's+Going+On%3F+;Hello+From+Sid+Joshi!!)](https://git.io/typing-svg)
 
 <img src="https://backiee.com/static/wallpapers/1000x563/393887.jpg" alt="header image"/>
  
