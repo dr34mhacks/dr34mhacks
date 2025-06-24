@@ -18,7 +18,7 @@ Always learning, always building—one exploit at a time.
 
 ### 🛠️ What I’m Working On
 
-🔐 Working on my latest project: [infosecmania.com](https://infosecmania.com)  
+🔐 Working on my latest project: **[InfosecMania.com](https://infosecmania.com)** </br>
 A community-powered hub packed with tools and resources for bug bounty hunting, penetration testing, and infosec certifications.  
 🧰 Got a favorite tool? Contribute to the list and get a chance to feature as a contributor at InfosecMania!
 
