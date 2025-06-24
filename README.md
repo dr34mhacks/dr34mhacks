@@ -8,12 +8,32 @@
 <a href="https://dr34mhacks.github.io/"><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
+### 👋 Hi, I’m Sid (dr34mhacks)
 
-<div align="center">
-<h3> 🥷🏻 Siddharth Joshi  | 💻 Cyber Security Enthusiast | 🌏 India </h3> 
-</div>
-<div align="center">
-<p>  
-I am Sid Joshi, a cybersecurity enthusiast and a keen learner chasing big dreams, one byte at a time! 😁 
-</p>
-</div>
+Aspiring penetration tester • Bug bounty hunter • Tool developer • Speaker • CTF competitor  
+Always learning, always building—one exploit at a time.
+
+
+<img align="right" src="https://github.com/user-attachments/assets/daa2873e-2952-43b3-b0d4-dba227c43566" alt="infosecmania.com" width="250" />
+
+### 🛠️ What I’m Working On
+
+🔐 Working on my latest project: [infosecmania.com](https://infosecmania.com)  
+A community-powered hub packed with tools and resources for bug bounty hunting, penetration testing, and infosec certifications.  
+🧰 Got a favorite tool? Contribute to the list and get a chance to feature as a contributor at InfosecMania!
+
+---
+
+### 🚀 Highlighted Projects
+
+| 📦 Project | 🛠️ Description |
+|---|---|
+| **[formatify](https://github.com/dr34mhacks/formatify)** | Burp Suite extension that converts HTTP requests into multiple formats (cURL, Python, PowerShell, etc.) |
+| **[Snapdroid](https://github.com/dr34mhacks/Snapdroid)** | Android snapshot & screen recording automation tool |
+| **[Ginger‑juice‑shop](https://github.com/dr34mhacks/Ginger-juice-shop)** | SSTI challenge: intentionally vulnerable app for learning |
+| **[operation‑file‑hunt](https://github.com/dr34mhacks/operation-file-hunt)** | Lab to practice LFI vs File Retrieval – learn to chain to RCE |
+| **[linux‑space‑booster](https://github.com/dr34mhacks/linux-space-booster)** | Shell script to reclaim space on your Linux VM—Kali, Ubuntu, Debian supported |
+
+…and more: LFI/RCE exploits, SSTI labs, subdomain finders—open to collaboration and improvements!
+
+⭐ If any of these tools help you—and you're up for it—drop me a ⭐!
