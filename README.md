@@ -28,6 +28,7 @@ A community-powered hub packed with tools and resources for bug bounty hunting, 
 
 | 📦 Project | 🛠️ Description |
 |---|---|
+| **[JWTAuditor](https://github.com/dr34mhacks/jwtauditor)** | JWT Auditor – Analyze, break, and understand your tokens like a pro. |
 | **[formatify](https://github.com/dr34mhacks/formatify)** | Burp Suite extension that converts HTTP requests into multiple formats (cURL, Python, PowerShell, etc.) |
 | **[Snapdroid](https://github.com/dr34mhacks/Snapdroid)** | Android snapshot & screen recording automation tool |
 | **[Ginger‑juice‑shop](https://github.com/dr34mhacks/Ginger-juice-shop)** | SSTI challenge: intentionally vulnerable app for learning |
