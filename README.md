@@ -13,14 +13,14 @@
 Aspiring penetration tester • Bug bounty hunter • Tool developer • Speaker • CTF competitor  
 Always learning, always building—one exploit at a time.
 
-
-<img align="right" src="https://github.com/user-attachments/assets/daa2873e-2952-43b3-b0d4-dba227c43566" alt="infosecmania.com" width="250" />
+<img align="right" src="https://github.com/user-attachments/assets/3024e5bd-576e-4f84-8282-1db9041233d1" alt="infosecmania.com" width="250" />
 
 ### 🛠️ What I’m Working On
 
-🔐 Working on my latest project: **[InfosecMania.com](https://infosecmania.com)** </br>
-A community-powered hub packed with tools and resources for bug bounty hunting, penetration testing, and infosec certifications.  
-🧰 Got a favorite tool? Contribute to the list and get a chance to feature as a contributor at InfosecMania!
+🔐 Working on my latest project: **[JwtAuditor.com](https://jwtauditor.com)** </br>
+JWTAuditor is a comprehensive, 100% client-side JWT (JSON Web Token) security testing platform designed by penetration testers, for penetration testers. 
+
+
 
 ---
 
