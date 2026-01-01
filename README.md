@@ -29,6 +29,7 @@ JWTAuditor is a comprehensive, 100% client-side JWT (JSON Web Token) security te
 | 📦 Project | 🛠️ Description |
 |---|---|
 | **[JWTAuditor](https://github.com/dr34mhacks/jwtauditor)** | JWT Auditor – Analyze, break, and understand your tokens like a pro. |
+| **[XSSNow](https://github.com/dr34mhacks/XSSNow)** | Find XSS payloads that actually work by filtering them based on real-world constraints instead of blind payload spraying. |
 | **[formatify](https://github.com/dr34mhacks/formatify)** | Burp Suite extension that converts HTTP requests into multiple formats (cURL, Python, PowerShell, etc.) |
 | **[Snapdroid](https://github.com/dr34mhacks/Snapdroid)** | Android snapshot & screen recording automation tool |
 | **[Ginger‑juice‑shop](https://github.com/dr34mhacks/Ginger-juice-shop)** | SSTI challenge: intentionally vulnerable app for learning |
