@@ -30,6 +30,7 @@ JWTAuditor is a comprehensive, 100% client-side JWT (JSON Web Token) security te
 |---|---|
 | **[JWTAuditor](https://github.com/dr34mhacks/jwtauditor)** | JWT Auditor – Analyze, break, and understand your tokens like a pro. |
 | **[XSSNow](https://github.com/dr34mhacks/XSSNow)** | Find XSS payloads that actually work by filtering them based on real-world constraints instead of blind payload spraying. |
+| **[ExecEvasion](https://github.com/dr34mhacks/ExecEvasion)** | ExecEvasion is a lightweight toolkit that generates command variants to bypass naive filters and WAFs by exploiting real shell parsing behavior on Linux and Windows. |
 | **[formatify](https://github.com/dr34mhacks/formatify)** | Burp Suite extension that converts HTTP requests into multiple formats (cURL, Python, PowerShell, etc.) |
 | **[Snapdroid](https://github.com/dr34mhacks/Snapdroid)** | Android snapshot & screen recording automation tool |
 | **[Ginger‑juice‑shop](https://github.com/dr34mhacks/Ginger-juice-shop)** | SSTI challenge: intentionally vulnerable app for learning |
